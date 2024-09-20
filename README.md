@@ -1,2 +1,2 @@
 # DOSDiff
-##The training and inference code will be available soon
+#The training and inference code will be available soon
